@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SteColeman
+- 👀 I’m interested in front end web development, JavaScript programming and Ethereum smart contracts
+- 🌱 I’m currently learning Solidity and more JavaScript frameworks.
+- 💞️ I’m looking to collaborate on most smart contract projects to broaden my knowledge.
+- 📫 email me at colemancrypto1@gmail.com
